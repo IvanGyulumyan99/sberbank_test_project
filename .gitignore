@@ -26,7 +26,10 @@
 
 # IntelliJ
 /out/
-/.allure/
+.allure/
+allure-results/
+build/
+gradle/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
